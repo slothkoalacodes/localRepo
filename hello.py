@@ -1,1 +1,1 @@
-print('hello bud')
+print(int(16/4))
